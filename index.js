@@ -1,1 +1,7 @@
 console.log('hello');
+console.log('hello 2');
+console.log('hello 3');
+var uname = 'Asif';
+console.log(uname);
+var roll = 305072;
+console.log(roll);
