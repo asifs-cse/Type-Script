@@ -8,5 +8,7 @@ console.log(roll)
 const res:boolean = true;
 
 if(res){
-    console.log('Yes');
+    console.log('Your are eligible');
+}else{
+    console.log('you are not eligible');
 }

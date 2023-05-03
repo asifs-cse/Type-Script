@@ -7,5 +7,8 @@ var roll = 305072;
 console.log(roll);
 var res = true;
 if (res) {
-    console.log('Yes');
+    console.log('Your are eligible');
+}
+else {
+    console.log('not eligible');
 }
