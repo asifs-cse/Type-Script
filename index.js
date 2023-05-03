@@ -5,3 +5,7 @@ var uname = 'Asif';
 console.log(uname);
 var roll = 305072;
 console.log(roll);
+var res = true;
+if (res) {
+    console.log('Yes');
+}
